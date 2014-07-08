@@ -10,17 +10,8 @@
 | and give it the Closure to execute when that URI is requested.
 |
 */
-Route::get('/sss/', function()
-{
-	return View::make('hello');
-});
 
 Route::get('/', function()
 {
 	return View::make('hello');
-});
-Route::get('/{name}', function($name)
-{
-	return View::make('show')
-		->with('name',$name);
 });
