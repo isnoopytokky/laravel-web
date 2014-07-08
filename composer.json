@@ -1,0 +1,11 @@
+{ 
+
+     "require": { 
+
+            "laravel/laravel": "4.0.*"
+
+        },
+
+      "minimum-stability": "dev"
+
+     }
