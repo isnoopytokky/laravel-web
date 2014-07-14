@@ -2,12 +2,10 @@
 
 @section('title')
 @parent
-:: Home
-@parent
-:: About
+:: HomeAbout
 @stop
 
 @section('content')
-<h1>Hello World!</h1>
+<h1>dddHello World!</h1>
 <p>This page is created using a master template.</p>
 @stop
