@@ -3,6 +3,8 @@
 @section('title')
 @parent
 :: Home
+@parent
+:: About
 @stop
 
 @section('content')
