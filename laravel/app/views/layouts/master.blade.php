@@ -39,6 +39,9 @@
 					<div class="nav-collapse collapse">
 						<ul class="nav">
 							<li><a href="{{{ URL::to('') }}}">Home</a></li>
+							<li><a href="{{{ URL::to('') }}}">About</a></li>
+							<li><a href="{{{ URL::to('') }}}">Contact us</a></li>
+							<li><a href="{{{ URL::to('') }}}">More detail</a></li>
 						</ul> 
 					</div>
 				</div>
